@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background-color: rgb(100, 237, 200);
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+} 
+.heading{
+    background-color: rgb(100, 237, 200); 
+    width: 100%;
+    text-align: center;
+    color: black;
+    position: fixed;
+    min-height: 50px;
+    padding: 10px;
+}
+.abt-me p {
+    text-align: center;
+   padding-bottom: 5%;
+    
+    
+}
+.abt-me h1{
+    text-align: center;
+    padding-bottom: 5px;
+}
+.abt-me {
+    padding-top: 8%;
+    background-color: aquamarine;
+}
+.interest{
+     padding: 30px; 
+    margin: 50px;
+    background-color: bisque;
+}
+.interest h1{
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+.section{
+    padding-top: 10px;
+}
+.sec1{
+    float: left;
+    padding-left: 10%;
+}
+.sec2{
+    float:right;
+    padding-right:10%;
+}
